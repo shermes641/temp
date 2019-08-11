@@ -292,7 +292,7 @@ print("hello world!")
 <details><summary><b>Click to expand cat /etc/postgresql/11/main/pg_hba.conf</B</summary>
 <p>
 
-```bash
+```js
 # PostgreSQL Client Authentication Configuration File
 # ===================================================
 #
@@ -396,7 +396,7 @@ host    replication     all             ::1/128                 md5
 <details><summary><b>Click to expand cat /etc/postgresql/11/main/pg_ctl.conf</B</summary>
 <p>
 
-```bash
+```js
     # Automatic pg_ctl configuration
     # This configuration file contains cluster specific options to be passed to
     # pg_ctl(1).
