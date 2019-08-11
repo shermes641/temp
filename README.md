@@ -276,6 +276,7 @@ abbreviation	meaning
 <details><summary><b>Click to expand cat /etc/postgresql/11/main/pg_hba.conf</B</summary>
 <p>
 
+```
     # PostgreSQL Client Authentication Configuration File
     # ===================================================
     #
@@ -372,13 +373,14 @@ abbreviation	meaning
     local   replication     all                                     peer
     host    replication     all             127.0.0.1/32            md5
     host    replication     all             ::1/128                 md5
-        
+```        
 </p>
 </details>
 
 <details><summary><b>Click to expand cat /etc/postgresql/11/main/pg_ctl.conf</B</summary>
 <p>
 
+```
     # Automatic pg_ctl configuration
     # This configuration file contains cluster specific options to be passed to
     # pg_ctl(1).
@@ -429,6 +431,7 @@ abbreviation	meaning
     # ----------------------------------
     
     # MAPNAME       SYSTEM-USERNAME         PG-USERNAME
+```
     
 </p>
 </details>    
