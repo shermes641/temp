@@ -279,8 +279,6 @@ abbreviation	meaning
 <details><summary>CLICK ME</summary>
 <p>
 
-#### yes, even hidden code blocks!
-
 ```python
 # PostgreSQL Client Authentication Configuration File
 # ===================================================
@@ -384,7 +382,7 @@ host    replication     all             ::1/128                 md5
 </details>
 
 
-<details><summary><b>Click to expand cat /etc/postgresql/11/main/pg_hba.conf</B</summary>
+<details><summary>Click to expand cat /etc/postgresql/11/main/pg_hba.conf</summary>
 <p>
 
 ```js
@@ -488,7 +486,7 @@ host    replication     all             ::1/128                 md5
 </p>
 </details>
 
-<details><summary><b>Click to expand cat /etc/postgresql/11/main/pg_ctl.conf</B</summary>
+<details><summary>Click to expand cat /etc/postgresql/11/main/pg_ctl.conf</summary>
 <p>
 
 ```js
@@ -548,7 +546,7 @@ host    replication     all             ::1/128                 md5
 </details>    
 
 
-<details><summary><b>Click to expand cat /etc/postgresql/11/main/environment</B</summary>
+<details><summary>Click to expand cat /etc/postgresql/11/main/environment</summary>
 <p>
 
     # environment variables for postgres processes
@@ -562,7 +560,7 @@ host    replication     all             ::1/128                 md5
 </p>
 </details>    
 
-<details><summary><b>Click to expand cat /etc/postgresql/11/main/postgresql.conf</B</summary>
+<details><summary>Click to expand cat /etc/postgresql/11/main/postgresql.conf</summary>
 <p>
 
     # -----------------------------
